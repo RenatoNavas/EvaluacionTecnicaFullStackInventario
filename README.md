@@ -72,4 +72,24 @@ cd FrontPruebaTecnica
 npm install
 ng serve --open
 ```
+### ▶️ Evidencias
+-  Listado dinámico de productos y transacciones con paginación.
+![image](https://github.com/RenatoNavas/EvaluacionTecnicaFullStack/blob/edcfaf3f9341be8ea6d7ac9c23d8f2c9961d8006/listadoproductos.png)
+![image](https://github.com/RenatoNavas/EvaluacionTecnicaFullStack/blob/edcfaf3f9341be8ea6d7ac9c23d8f2c9961d8006/listadotransacciones.png)
+-  Pantalla para la creación de productos. 
 ![image](https://github.com/RenatoNavas/EvaluacionTecnicaFullStack/blob/edcfaf3f9341be8ea6d7ac9c23d8f2c9961d8006/crearproducto.png)
+-  Pantalla para la edición de productos. 
+![image](https://github.com/RenatoNavas/EvaluacionTecnicaFullStack/blob/edcfaf3f9341be8ea6d7ac9c23d8f2c9961d8006/editarproducto.png)
+-  Pantalla para la creación de transacciones.
+![image](https://github.com/RenatoNavas/EvaluacionTecnicaFullStack/blob/edcfaf3f9341be8ea6d7ac9c23d8f2c9961d8006/creartransaccion.png)
+-  Pantalla para la edición de transacciones
+![image](https://github.com/RenatoNavas/EvaluacionTecnicaFullStack/blob/edcfaf3f9341be8ea6d7ac9c23d8f2c9961d8006/editartransaccion.png)
+-  Pantalla de filtros dinámicos.
+-  Filtro productos
+![image](https://github.com/RenatoNavas/EvaluacionTecnicaFullStack/blob/f1cb6123313f3ad9ee202939f9e84fd57c5877fc/filtrosproductos1.png)
+-  Filtro transacciones
+![image](https://github.com/RenatoNavas/EvaluacionTecnicaFullStack/blob/120b8eb47cfafb2f78b901fdb60769cf89ad54c0/filtrotransacciones.png)
+
+
+
+
