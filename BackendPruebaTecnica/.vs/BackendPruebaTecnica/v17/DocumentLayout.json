@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79DDE3A3-3442-4DCD-8711-73B0719E79BB}|TransaccionAPIService\\TransaccionAPIService.csproj|c:\\users\\renat\\documents\\curso blazor\\backendpruebatecnica\\transaccionapiservice\\models\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DDE3A3-3442-4DCD-8711-73B0719E79BB}|TransaccionAPIService\\TransaccionAPIService.csproj|solutionrelative:transaccionapiservice\\models\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DDE3A3-3442-4DCD-8711-73B0719E79BB}|TransaccionAPIService\\TransaccionAPIService.csproj|c:\\users\\renat\\documents\\curso blazor\\backendpruebatecnica\\transaccionapiservice\\models\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DDE3A3-3442-4DCD-8711-73B0719E79BB}|TransaccionAPIService\\TransaccionAPIService.csproj|solutionrelative:transaccionapiservice\\models\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DDE3A3-3442-4DCD-8711-73B0719E79BB}|TransaccionAPIService\\TransaccionAPIService.csproj|c:\\users\\renat\\documents\\curso blazor\\backendpruebatecnica\\transaccionapiservice\\data\\transacciondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DDE3A3-3442-4DCD-8711-73B0719E79BB}|TransaccionAPIService\\TransaccionAPIService.csproj|solutionrelative:transaccionapiservice\\data\\transacciondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DDE3A3-3442-4DCD-8711-73B0719E79BB}|TransaccionAPIService\\TransaccionAPIService.csproj|c:\\users\\renat\\documents\\curso blazor\\backendpruebatecnica\\transaccionapiservice\\controllers\\transaccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DDE3A3-3442-4DCD-8711-73B0719E79BB}|TransaccionAPIService\\TransaccionAPIService.csproj|solutionrelative:transaccionapiservice\\controllers\\transaccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3716855A-C5F3-4150-AFCD-AE77E61B9102}|ProductoAPIService\\ProductoAPIService.csproj|c:\\users\\renat\\documents\\curso blazor\\backendpruebatecnica\\productoapiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3716855A-C5F3-4150-AFCD-AE77E61B9102}|ProductoAPIService\\ProductoAPIService.csproj|solutionrelative:productoapiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3716855A-C5F3-4150-AFCD-AE77E61B9102}|ProductoAPIService\\ProductoAPIService.csproj|c:\\users\\renat\\documents\\curso blazor\\backendpruebatecnica\\productoapiservice\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3716855A-C5F3-4150-AFCD-AE77E61B9102}|ProductoAPIService\\ProductoAPIService.csproj|solutionrelative:productoapiservice\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3716855A-C5F3-4150-AFCD-AE77E61B9102}|ProductoAPIService\\ProductoAPIService.csproj|c:\\users\\renat\\documents\\curso blazor\\backendpruebatecnica\\productoapiservice\\data\\productodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3716855A-C5F3-4150-AFCD-AE77E61B9102}|ProductoAPIService\\ProductoAPIService.csproj|solutionrelative:productoapiservice\\data\\productodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3716855A-C5F3-4150-AFCD-AE77E61B9102}|ProductoAPIService\\ProductoAPIService.csproj|c:\\users\\renat\\documents\\curso blazor\\backendpruebatecnica\\productoapiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3716855A-C5F3-4150-AFCD-AE77E61B9102}|ProductoAPIService\\ProductoAPIService.csproj|solutionrelative:productoapiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DDE3A3-3442-4DCD-8711-73B0719E79BB}|TransaccionAPIService\\TransaccionAPIService.csproj|c:\\users\\renat\\documents\\curso blazor\\backendpruebatecnica\\transaccionapiservice\\services\\productoapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DDE3A3-3442-4DCD-8711-73B0719E79BB}|TransaccionAPIService\\TransaccionAPIService.csproj|solutionrelative:transaccionapiservice\\services\\productoapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DDE3A3-3442-4DCD-8711-73B0719E79BB}|TransaccionAPIService\\TransaccionAPIService.csproj|c:\\users\\renat\\documents\\curso blazor\\backendpruebatecnica\\transaccionapiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DDE3A3-3442-4DCD-8711-73B0719E79BB}|TransaccionAPIService\\TransaccionAPIService.csproj|solutionrelative:transaccionapiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3716855A-C5F3-4150-AFCD-AE77E61B9102}|ProductoAPIService\\ProductoAPIService.csproj|c:\\users\\renat\\documents\\curso blazor\\backendpruebatecnica\\productoapiservice\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3716855A-C5F3-4150-AFCD-AE77E61B9102}|ProductoAPIService\\ProductoAPIService.csproj|solutionrelative:productoapiservice\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\TransaccionAPIService\\Migrations\\20250620205214_InitTransaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TransaccionAPIService\\Migrations\\20250620205214_InitTransaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DDE3A3-3442-4DCD-8711-73B0719E79BB}|TransaccionAPIService\\TransaccionAPIService.csproj|c:\\users\\renat\\documents\\curso blazor\\backendpruebatecnica\\transaccionapiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79DDE3A3-3442-4DCD-8711-73B0719E79BB}|TransaccionAPIService\\TransaccionAPIService.csproj|solutionrelative:transaccionapiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\ProductoAPIService\\Migrations\\20250620195910_InitProducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductoAPIService\\Migrations\\20250620195910_InitProducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransaccionController.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\TransaccionAPIService\\Controllers\\TransaccionController.cs",
+              "RelativeDocumentMoniker": "TransaccionAPIService\\Controllers\\TransaccionController.cs",
+              "ToolTip": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\TransaccionAPIService\\Controllers\\TransaccionController.cs",
+              "RelativeToolTip": "TransaccionAPIService\\Controllers\\TransaccionController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAGgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T20:43:31.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\ProductoAPIService\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "ProductoAPIService\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\ProductoAPIService\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "ProductoAPIService\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T20:03:02.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\ProductoAPIService\\Program.cs",
+              "RelativeDocumentMoniker": "ProductoAPIService\\Program.cs",
+              "ToolTip": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\ProductoAPIService\\Program.cs",
+              "RelativeToolTip": "ProductoAPIService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:42:43.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\ProductoAPIService\\Data\\ProductoDbContext.cs",
+              "RelativeDocumentMoniker": "ProductoAPIService\\Data\\ProductoDbContext.cs",
+              "ToolTip": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\ProductoAPIService\\Data\\ProductoDbContext.cs",
+              "RelativeToolTip": "ProductoAPIService\\Data\\ProductoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:39:47.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransaccionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\TransaccionAPIService\\Data\\TransaccionDbContext.cs",
+              "RelativeDocumentMoniker": "TransaccionAPIService\\Data\\TransaccionDbContext.cs",
+              "ToolTip": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\TransaccionAPIService\\Data\\TransaccionDbContext.cs",
+              "RelativeToolTip": "TransaccionAPIService\\Data\\TransaccionDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T20:34:15.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoDto.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\TransaccionAPIService\\Models\\ProductoDto.cs",
+              "RelativeDocumentMoniker": "TransaccionAPIService\\Models\\ProductoDto.cs",
+              "ToolTip": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\TransaccionAPIService\\Models\\ProductoDto.cs",
+              "RelativeToolTip": "TransaccionAPIService\\Models\\ProductoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T20:33:39.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Transaccion.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\TransaccionAPIService\\Models\\Transaccion.cs",
+              "RelativeDocumentMoniker": "TransaccionAPIService\\Models\\Transaccion.cs",
+              "ToolTip": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\TransaccionAPIService\\Models\\Transaccion.cs",
+              "RelativeToolTip": "TransaccionAPIService\\Models\\Transaccion.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T20:17:25.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\ProductoAPIService\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductoAPIService\\appsettings.json",
+              "ToolTip": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\ProductoAPIService\\appsettings.json",
+              "RelativeToolTip": "ProductoAPIService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T19:49:32.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductoApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\TransaccionAPIService\\Services\\ProductoApiClient.cs",
+              "RelativeDocumentMoniker": "TransaccionAPIService\\Services\\ProductoApiClient.cs",
+              "ToolTip": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\TransaccionAPIService\\Services\\ProductoApiClient.cs",
+              "RelativeToolTip": "TransaccionAPIService\\Services\\ProductoApiClient.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T20:38:46.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\TransaccionAPIService\\Program.cs",
+              "RelativeDocumentMoniker": "TransaccionAPIService\\Program.cs",
+              "ToolTip": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\TransaccionAPIService\\Program.cs",
+              "RelativeToolTip": "TransaccionAPIService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T20:44:14.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250620205214_InitTransaccion.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\TransaccionAPIService\\Migrations\\20250620205214_InitTransaccion.cs",
+              "RelativeDocumentMoniker": "TransaccionAPIService\\Migrations\\20250620205214_InitTransaccion.cs",
+              "ToolTip": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\TransaccionAPIService\\Migrations\\20250620205214_InitTransaccion.cs",
+              "RelativeToolTip": "TransaccionAPIService\\Migrations\\20250620205214_InitTransaccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T20:52:14.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\ProductoAPIService\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "ProductoAPIService\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\ProductoAPIService\\Models\\Producto.cs",
+              "RelativeToolTip": "ProductoAPIService\\Models\\Producto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T02:59:44.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\TransaccionAPIService\\appsettings.json",
+              "RelativeDocumentMoniker": "TransaccionAPIService\\appsettings.json",
+              "ToolTip": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\TransaccionAPIService\\appsettings.json",
+              "RelativeToolTip": "TransaccionAPIService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T20:44:34.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250620195910_InitProducto.cs",
+              "DocumentMoniker": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\ProductoAPIService\\Migrations\\20250620195910_InitProducto.cs",
+              "RelativeDocumentMoniker": "ProductoAPIService\\Migrations\\20250620195910_InitProducto.cs",
+              "ToolTip": "C:\\Users\\renat\\Documents\\Curso Blazor\\BackendPruebaTecnica\\ProductoAPIService\\Migrations\\20250620195910_InitProducto.cs",
+              "RelativeToolTip": "ProductoAPIService\\Migrations\\20250620195910_InitProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T19:59:10.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

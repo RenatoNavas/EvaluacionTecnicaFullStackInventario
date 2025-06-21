@@ -1,0 +1,51 @@
+:host {
+  display: block;
+  padding: 1rem;
+}
+
+.transaccion-toolbar {
+  background-color: #f5f5f5;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.filtro-transacciones {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  align-items: flex-end;
+  margin-top: 16px;
+
+  mat-form-field {
+    flex: 1 1 200px;
+    min-width: 160px;
+  }
+
+  .filter-buttons {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    margin-left: auto;
+    padding-bottom: 4px;
+  }
+}
+
+.tabla-transacciones {
+  overflow-x: auto;
+  background-color: #ffffff;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+table {
+  width: 100%;
+  min-width: 960px;
+}
+
+.mat-column-cantidadTransaccion,
+.mat-column-precioUnitarioTransaccion,
+.mat-column-precioTotalTransaccion {
+  text-align: right;
+}

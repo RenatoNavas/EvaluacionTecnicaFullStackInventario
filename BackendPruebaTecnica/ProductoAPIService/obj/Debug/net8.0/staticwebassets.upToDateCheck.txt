@@ -1,0 +1,2 @@
+wwwroot\ProductoImages\aguacate.jpg
+wwwroot\LogoImage\inventario.png

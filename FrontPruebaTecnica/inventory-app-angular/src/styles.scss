@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
+html, body {
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  
+  .mat-typography {
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  
+.mat-toolbar {
+  background-color: #000 !important;
+  color: #fff !important;
+}

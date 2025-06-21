@@ -1,0 +1,59 @@
+<form [formGroup]="form" (ngSubmit)="submit()" class="transaccion-form">
+  <div class="row">
+    <mat-form-field appearance="outline" class="field">
+      <mat-label>Tipo*</mat-label>
+      <mat-select formControlName="tipoTransaccion">
+        <mat-option value="compra">Compra</mat-option>
+        <mat-option value="venta">Venta</mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <mat-form-field appearance="outline" class="field">
+      <mat-label>Producto*</mat-label>
+      <mat-select formControlName="productoId">
+        <mat-option *ngFor="let p of productos" [value]="p.productoId">
+          {{ p.nombreProducto }}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <mat-form-field appearance="outline" class="field">
+      <mat-label>Cantidad*</mat-label>
+      <input type="number" matInput formControlName="cantidadTransaccion" />
+      <mat-error *ngIf="form.get('cantidadTransaccion')?.hasError('min')">
+        Debe ser al menos 1
+      </mat-error>
+      <mat-error *ngIf="form.get('cantidadTransaccion')?.hasError('max')">
+        No puedes vender más de {{ stockDisponible }}
+      </mat-error>
+    </mat-form-field>
+
+    <mat-form-field appearance="outline" class="field">
+      <mat-label>Precio Unitario*</mat-label>
+      <input type="number" matInput formControlName="precioUnitarioTransaccion" />
+      <mat-error *ngIf="form.get('precioUnitarioTransaccion')?.hasError('min')">
+        Debe ser ≥ 0
+      </mat-error>
+    </mat-form-field>
+  </div>
+
+  <div class="row">
+    <mat-form-field appearance="outline" class="field wide">
+      <mat-label>Detalle</mat-label>
+      <input matInput formControlName="detalleTransaccion" />
+    </mat-form-field>
+  </div>
+
+  <div class="row">
+    <mat-form-field appearance="outline" class="field">
+      <mat-label>Stock disponible</mat-label>
+      <input matInput [value]="stockDisponible" disabled />
+    </mat-form-field>
+  </div>
+
+  <div class="actions">
+    <button mat-raised-button color="primary" type="submit" [disabled]="form.invalid">
+      {{ editar ? 'Actualizar' : 'Registrar' }}
+    </button>
+  </div>
+</form>

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "ProductoAPIService\\ProductoAPIService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TransaccionAPIService\\TransaccionAPIService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

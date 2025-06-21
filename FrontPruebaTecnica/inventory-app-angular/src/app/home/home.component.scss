@@ -1,0 +1,41 @@
+:host {
+  display: block;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.home-container {
+  max-width: 700px;
+  margin: auto;
+  padding: 32px;
+  border-radius: 12px;
+  background-color: #f8fafc;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.home-image {
+  width: 160px;
+  margin-bottom: 24px;
+  animation: fadeIn 1.2s ease-in-out;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 12px;
+  font-weight: bold;
+  color: #1f2937;
+}
+
+h1 .highlight {
+  color: #2563eb;
+}
+
+p {
+  font-size: 1.2rem;
+  color: #475569;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
